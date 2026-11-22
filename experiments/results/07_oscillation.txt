@@ -1,0 +1,49 @@
+Wyniki: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\07_oscillation.txt
+=== OSCYLACJA SYNCHRONICZNA ===
+Zbiór uczący, jeden wzorzec 4x4:
+####
+####
+####
+####
+
+Wejście:
+#.#.
+.#.#
+#.#.
+.#.#
+
+synchronous: status=cycle, kroki=2
+energie: 0.50 -> 0.50 -> 0.50
+
+start
+#.#.
+.#.#
+#.#.
+.#.#
+
+krok 1
+.#.#
+#.#.
+.#.#
+#.#.
+
+krok 2
+#.#.
+.#.#
+#.#.
+.#.#
+
+asynchronous: status=stable, kroki=1
+energie: 0.50 -> -7.50
+
+start
+#.#.
+.#.#
+#.#.
+.#.#
+
+krok 1
+....
+....
+....
+....

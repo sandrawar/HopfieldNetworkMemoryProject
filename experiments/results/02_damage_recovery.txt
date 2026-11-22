@@ -1,0 +1,29 @@
+Wyniki: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\02_damage_recovery.txt
+=== ODZYSK Z USZKODZONEGO WEJŚCIA ===
+Prób na wzorzec: 10. Tryb synchroniczny.
+all = wszystkie wzorce, stable = tylko te, które są stanami stabilnymi.
+zbiór                    reguła    P      N             10%             20%             30%
+Liczenie: small-7x7.csv
+small-7x7.csv            hebb      5     49   42%/  70%   46%/  77%   32%/  53%
+small-7x7.csv            oja       5     49   40%/  67%   44%/  73%   30%/  50%
+Liczenie: animals-14x9.csv
+animals-14x9.csv         hebb      6    126   27%/  80%   20%/  60%   22%/  65%
+animals-14x9.csv         oja       6    126   27%/  80%   20%/  60%   22%/  65%
+Liczenie: letters-abc-8x12.csv
+letters-abc-8x12.csv     hebb      3     96    0%/  --     0%/  --     0%/  -- 
+letters-abc-8x12.csv     oja       3     96    0%/  --     0%/  --     0%/  -- 
+Liczenie: letters-14x20.csv
+letters-14x20.csv        hebb     26    280    0%/  --     0%/  --     0%/  -- 
+letters-14x20.csv        oja      26    280    0%/  --     0%/  --     0%/  -- 
+Liczenie: OCRA-12x30-cut.csv
+OCRA-12x30-cut.csv       hebb      7    360    7%/  50%    7%/  50%    4%/  30%
+OCRA-12x30-cut.csv       oja       7    360    0%/  --     0%/  --     0%/  -- 
+Liczenie: large-25x25.csv
+large-25x25.csv          hebb      6    625   72%/  86%   65%/  78%   63%/  76%
+large-25x25.csv          oja       6    625   68%/  82%   67%/  80%   63%/  76%
+Liczenie: large-25x25.plus.csv
+large-25x25.plus.csv     hebb     15    625    7%/ 100%    7%/ 100%    7%/ 100%
+large-25x25.plus.csv     oja      15    625    7%/ 100%    7%/ 100%    7%/ 100%
+Liczenie: large-25x50.csv
+large-25x50.csv          hebb      6   1250    0%/  --     0%/  --     0%/  -- 
+large-25x50.csv          oja       6   1250    0%/  --     0%/  --     0%/  -- 

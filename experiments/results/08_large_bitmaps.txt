@@ -1,0 +1,10 @@
+Wyniki: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\08_large_bitmaps.txt
+=== DUŻE BITMAPY (KOTY) ===
+Wzorców: 3, bitmapa 300x200, neuronów: 60000
+cat-1.jpg: po jednym kroku 60000/60000 pikseli zgodnych z oryginałem
+cat-2.jpg: po jednym kroku 60000/60000 pikseli zgodnych z oryginałem
+cat-3.jpg: po jednym kroku 60000/60000 pikseli zgodnych z oryginałem
+
+Uszkodzono 6000 pikseli wzorca 1. status=stable, kroki=1
+Podobieństwo do oryginału: 100.0%
+Rysunek: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\cats-recovery.png

@@ -1,0 +1,26 @@
+Wyniki: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\03_size_25x25_vs_25x50.txt
+=== 25x25 KONTRA 25x50 ===
+Prób na wzorzec: 10. Tryb synchroniczny.
+Liczby to udane odzyskania: wszystkie wzorce / tylko stabilne.
+Liczenie: large-25x25.csv
+
+large-25x25.csv: 6 wzorców, bitmapa 25x25, neuronów 625
+  hebb
+    szum 10%: wszystkie 72%, wśród stabilnych 86%, średnie podobieństwo 97%, stabilnych wzorców 5/6
+    szum 20%: wszystkie 68%, wśród stabilnych 82%, średnie podobieństwo 97%, stabilnych wzorców 5/6
+    szum 30%: wszystkie 55%, wśród stabilnych 66%, średnie podobieństwo 95%, stabilnych wzorców 5/6
+  oja
+    szum 10%: wszystkie 67%, wśród stabilnych 80%, średnie podobieństwo 96%, stabilnych wzorców 5/6
+    szum 20%: wszystkie 72%, wśród stabilnych 86%, średnie podobieństwo 97%, stabilnych wzorców 5/6
+    szum 30%: wszystkie 57%, wśród stabilnych 68%, średnie podobieństwo 95%, stabilnych wzorców 5/6
+Liczenie: large-25x50.csv
+
+large-25x50.csv: 6 wzorców, bitmapa 25x50, neuronów 1250
+  hebb
+    szum 10%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, średnie podobieństwo 87%, stabilnych wzorców 0/6
+    szum 20%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, średnie podobieństwo 87%, stabilnych wzorców 0/6
+    szum 30%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, średnie podobieństwo 87%, stabilnych wzorców 0/6
+  oja
+    szum 10%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, średnie podobieństwo 88%, stabilnych wzorców 0/6
+    szum 20%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, średnie podobieństwo 88%, stabilnych wzorców 0/6
+    szum 30%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, średnie podobieństwo 88%, stabilnych wzorców 0/6

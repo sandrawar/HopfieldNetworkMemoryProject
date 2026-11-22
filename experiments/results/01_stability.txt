@@ -1,0 +1,19 @@
+Wyniki: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\01_stability.txt
+=== STABILNOŚĆ WZORCÓW UCZĄCYCH ===
+zbiór                       P      N      P/N       Hebb        Oja
+Liczenie: small-7x7.csv
+small-7x7.csv               5     49    0.102    3/5        3/5    
+Liczenie: animals-14x9.csv
+animals-14x9.csv            6    126    0.048    2/6        2/6    
+Liczenie: letters-abc-8x12.csv
+letters-abc-8x12.csv        3     96    0.031    0/3        0/3    
+Liczenie: letters-14x20.csv
+letters-14x20.csv          26    280    0.093    0/26       0/26   
+Liczenie: OCRA-12x30-cut.csv
+OCRA-12x30-cut.csv          7    360    0.019    1/7        0/7    
+Liczenie: large-25x25.csv
+large-25x25.csv             6    625    0.010    5/6        5/6    
+Liczenie: large-25x25.plus.csv
+large-25x25.plus.csv       15    625    0.024    1/15       1/15   
+Liczenie: large-25x50.csv
+large-25x50.csv             6   1250    0.005    0/6        0/6    

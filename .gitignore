@@ -1,0 +1,9 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+raport.aux
+raport.log
+raport.out
+raport.toc
+raport.synctex.gz

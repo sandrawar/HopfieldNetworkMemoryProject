@@ -1,0 +1,32 @@
+Wyniki: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\04_similar_vs_diverse.txt
+=== PODOBNE KONTRA ZRÓŻNICOWANE ===
+Plik large-25x25.plus.csv. Oba podzbiory mają P=6, N=625. Prób na wzorzec: 10.
+
+podobne: wzorce 2, 4, 6, 7, 9, 13; zgodność średnia 68.9%, mediana 69.4%, zakres 61.3%–74.9%
+  Hebb, liczba różnych stanów końcowych: 1
+    stan 1: 6 wzorców
+  hebb
+    szum 10%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, stabilnych wzorców 0/6
+    szum 20%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, stabilnych wzorców 0/6
+    szum 30%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, stabilnych wzorców 0/6
+  oja
+    szum 10%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, stabilnych wzorców 0/6
+    szum 20%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, stabilnych wzorców 0/6
+    szum 30%: wszystkie 0%, wśród stabilnych nie ma wzorców stabilnych, stabilnych wzorców 0/6
+
+zróżnicowane: wzorce 1, 3, 5, 8, 10, 14; zgodność średnia 51.2%, mediana 50.7%, zakres 36.6%–60.5%
+  Hebb, liczba różnych stanów końcowych: 6
+    stan 1: 1 wzorzec
+    stan 2: 1 wzorzec
+    stan 3: 1 wzorzec
+    stan 4: 1 wzorzec
+    stan 5: 1 wzorzec
+    stan 6: 1 wzorzec
+  hebb
+    szum 10%: wszystkie 100%, wśród stabilnych 100%, stabilnych wzorców 6/6
+    szum 20%: wszystkie 100%, wśród stabilnych 100%, stabilnych wzorców 6/6
+    szum 30%: wszystkie 100%, wśród stabilnych 100%, stabilnych wzorców 6/6
+  oja
+    szum 10%: wszystkie 100%, wśród stabilnych 100%, stabilnych wzorców 6/6
+    szum 20%: wszystkie 100%, wśród stabilnych 100%, stabilnych wzorców 6/6
+    szum 30%: wszystkie 100%, wśród stabilnych 100%, stabilnych wzorców 6/6

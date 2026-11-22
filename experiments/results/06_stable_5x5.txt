@@ -1,0 +1,91 @@
+Wyniki: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\06_stable_5x5.txt
+=== ZBIÓR 5x5, WSZYSTKIE WZORCE STABILNE ===
+Liczba wzorców: 12
+Stabilnych: 12/12
+Największy |iloczyn| par różnych wzorców: 1
+
+Wzorzec 1 (stabilny)
+#####
+#####
+#####
+#####
+#####
+
+Wzorzec 2 (stabilny)
+#...#
+.##.#
+.....
+###.#
+.####
+
+Wzorzec 3 (stabilny)
+.#.##
+.#.#.
+.#...
+..###
+####.
+
+Wzorzec 4 (stabilny)
+..#.#
+##.#.
+##.#.
+.##..
+..###
+
+Wzorzec 5 (stabilny)
+##...
+#....
+##..#
+.##.#
+##..#
+
+Wzorzec 6 (stabilny)
+.#..#
+#.#..
+###..
+#..#.
+.#.##
+
+Wzorzec 7 (stabilny)
+.#..#
+...##
+#..##
+####.
+.#...
+
+Wzorzec 8 (stabilny)
+#####
+.#..#
+#....
+.#.#.
+#..##
+
+Wzorzec 9 (stabilny)
+#.#..
+##.#.
+#...#
+#..##
+.#.#.
+
+Wzorzec 10 (stabilny)
+..###
+.##..
+##.#.
+##..#
+##...
+
+Wzorzec 11 (stabilny)
+.####
+#...#
+.#..#
+##..#
+..##.
+
+Wzorzec 12 (stabilny)
+#.#.#
+#.###
+.#...
+.#.#.
+###..
+
+Zapisano: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\stable-5x5.csv

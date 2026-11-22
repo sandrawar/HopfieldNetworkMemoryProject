@@ -1,0 +1,72 @@
+Wyniki: C:\src\github\sandrawar\HopfieldNetworkMemoryProject\experiments\results\05_random_input.txt
+=== LOSOWE WEJŚCIE ===
+Reguła Hebba, tryb synchroniczny, prób na zbiór: 20.
+
+large-25x25.csv: P=6, N=625
+  próba  1: stable   -> najbliższy wzorzec 3, zgodnych bitów 322/625
+  próba  2: stable   -> najbliższy wzorzec 3, zgodnych bitów 321/625
+  próba  3: stable   -> najbliższy wzorzec 3, zgodnych bitów 339/625
+  próba  4: stable   -> najbliższy wzorzec 3, zgodnych bitów 326/625
+  próba  5: stable   -> dokładna negacja wzorca 1
+  próba  6: stable   -> najbliższy wzorzec 4, zgodnych bitów 595/625
+  próba  7: stable   -> najbliższy wzorzec 4, zgodnych bitów 595/625
+  próba  8: stable   -> dokładnie wzorzec 3
+  próba  9: stable   -> najbliższy wzorzec 4, zgodnych bitów 595/625
+  próba 10: stable   -> najbliższy wzorzec 3, zgodnych bitów 341/625
+  próba 11: stable   -> najbliższy wzorzec 4, zgodnych bitów 513/625
+  próba 12: stable   -> najbliższy wzorzec 4, zgodnych bitów 571/625
+  próba 13: stable   -> najbliższy wzorzec 3, zgodnych bitów 326/625
+  próba 14: stable   -> najbliższy wzorzec 3, zgodnych bitów 321/625
+  próba 15: stable   -> najbliższy wzorzec 3, zgodnych bitów 321/625
+  próba 16: stable   -> najbliższy wzorzec 3, zgodnych bitów 322/625
+  próba 17: stable   -> najbliższy wzorzec 3, zgodnych bitów 318/625
+  próba 18: stable   -> najbliższy wzorzec 4, zgodnych bitów 595/625
+  próba 19: stable   -> najbliższy wzorzec 3, zgodnych bitów 321/625
+  próba 20: stable   -> najbliższy wzorzec 3, zgodnych bitów 326/625
+  razem: wzorzec 1, negacja 1, inny stan 18
+
+animals-14x9.csv: P=6, N=126
+  próba  1: stable   -> najbliższy wzorzec 4, zgodnych bitów 44/126
+  próba  2: stable   -> najbliższy wzorzec 4, zgodnych bitów 43/126
+  próba  3: stable   -> najbliższy wzorzec 4, zgodnych bitów 44/126
+  próba  4: stable   -> najbliższy wzorzec 4, zgodnych bitów 44/126
+  próba  5: stable   -> najbliższy wzorzec 4, zgodnych bitów 44/126
+  próba  6: stable   -> najbliższy wzorzec 3, zgodnych bitów 106/126
+  próba  7: stable   -> najbliższy wzorzec 4, zgodnych bitów 44/126
+  próba  8: stable   -> dokładnie wzorzec 5
+  próba  9: stable   -> najbliższy wzorzec 4, zgodnych bitów 43/126
+  próba 10: stable   -> najbliższy wzorzec 3, zgodnych bitów 106/126
+  próba 11: stable   -> najbliższy wzorzec 3, zgodnych bitów 107/126
+  próba 12: stable   -> najbliższy wzorzec 4, zgodnych bitów 43/126
+  próba 13: stable   -> najbliższy wzorzec 3, zgodnych bitów 106/126
+  próba 14: stable   -> najbliższy wzorzec 3, zgodnych bitów 107/126
+  próba 15: stable   -> najbliższy wzorzec 4, zgodnych bitów 44/126
+  próba 16: stable   -> najbliższy wzorzec 4, zgodnych bitów 43/126
+  próba 17: stable   -> najbliższy wzorzec 3, zgodnych bitów 107/126
+  próba 18: stable   -> dokładna negacja wzorca 5
+  próba 19: stable   -> dokładna negacja wzorca 5
+  próba 20: stable   -> najbliższy wzorzec 3, zgodnych bitów 107/126
+  razem: wzorzec 1, negacja 2, inny stan 17
+
+letters-14x20.csv: P=26, N=280
+  próba  1: stable   -> najbliższy wzorzec 23, zgodnych bitów 52/280
+  próba  2: stable   -> najbliższy wzorzec 23, zgodnych bitów 52/280
+  próba  3: stable   -> najbliższy wzorzec 23, zgodnych bitów 52/280
+  próba  4: stable   -> najbliższy wzorzec 23, zgodnych bitów 52/280
+  próba  5: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba  6: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba  7: stable   -> najbliższy wzorzec 23, zgodnych bitów 52/280
+  próba  8: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba  9: stable   -> najbliższy wzorzec 23, zgodnych bitów 52/280
+  próba 10: stable   -> najbliższy wzorzec 23, zgodnych bitów 52/280
+  próba 11: stable   -> najbliższy wzorzec 23, zgodnych bitów 52/280
+  próba 12: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba 13: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba 14: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba 15: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba 16: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba 17: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba 18: stable   -> najbliższy wzorzec 23, zgodnych bitów 52/280
+  próba 19: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  próba 20: stable   -> najbliższy wzorzec 18, zgodnych bitów 270/280
+  razem: wzorzec 0, negacja 0, inny stan 20
