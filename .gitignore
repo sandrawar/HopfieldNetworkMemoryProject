@@ -7,3 +7,7 @@ raport.log
 raport.out
 raport.toc
 raport.synctex.gz
+raport.tex
+raport.pdf
+figures/*.png
+experiments/results/*.png
